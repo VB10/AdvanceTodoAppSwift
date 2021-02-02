@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TodoDetailViewController" customModule="GetirTodo" customModuleProvider="target">
+            <connections>
+                <outlet property="taskDescriptionTextField" destination="kRf-e0-Fkj" id="rpk-fy-vqN"/>
+                <outlet property="taskNameTextField" destination="A0C-Q3-8LV" id="5rC-vR-1rM"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dZb-dA-rfC">
+                    <rect key="frame" x="20" y="64" width="34" height="30"/>
+                    <state key="normal" title="Back"/>
+                    <connections>
+                        <action selector="onBackButtonPressed:" destination="-1" eventType="touchUpInside" id="zll-3A-cjA"/>
+                    </connections>
+                </button>
+                <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="CKu-fL-hTb" userLabel="Todo Detail Stack View">
+                    <rect key="frame" x="20" y="402" width="374" height="34"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Task Description:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fOD-Bt-U3d">
+                            <rect key="frame" x="0.0" y="0.0" width="187" height="34"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="kRf-e0-Fkj">
+                            <rect key="frame" x="187" y="0.0" width="187" height="34"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits"/>
+                        </textField>
+                    </subviews>
+                </stackView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Task" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GM1-da-d3k">
+                    <rect key="frame" x="20" y="195" width="67.5" height="35"/>
+                    <fontDescription key="fontDescription" type="system" weight="black" pointSize="29"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8QQ-mE-2GE">
+                    <rect key="frame" x="175.5" y="548" width="63" height="35"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                    <state key="normal" title="Update"/>
+                    <connections>
+                        <action selector="onUpdateButtonPressed:" destination="-1" eventType="touchUpInside" id="32E-Sf-ueB"/>
+                    </connections>
+                </button>
+                <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="RTi-D8-ClJ" userLabel="Todo Name Stack View">
+                    <rect key="frame" x="20" y="348" width="374" height="34"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Task Name:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DGd-F2-Gcs">
+                            <rect key="frame" x="0.0" y="0.0" width="187" height="34"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="A0C-Q3-8LV">
+                            <rect key="frame" x="187" y="0.0" width="187" height="34"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits"/>
+                        </textField>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="CKu-fL-hTb" firstAttribute="trailing" secondItem="RTi-D8-ClJ" secondAttribute="trailing" id="2GL-65-oNR"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="RTi-D8-ClJ" secondAttribute="trailing" constant="20" id="Dn3-v0-tKX"/>
+                <constraint firstItem="GM1-da-d3k" firstAttribute="top" secondItem="dZb-dA-rfC" secondAttribute="bottom" constant="101" id="EOP-iA-Ehx"/>
+                <constraint firstItem="8QQ-mE-2GE" firstAttribute="top" secondItem="CKu-fL-hTb" secondAttribute="bottom" constant="112" id="EvK-fl-Evq"/>
+                <constraint firstItem="dZb-dA-rfC" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="20" id="Fkf-gW-0B2"/>
+                <constraint firstItem="CKu-fL-hTb" firstAttribute="leading" secondItem="RTi-D8-ClJ" secondAttribute="leading" id="Iuu-wh-UOT"/>
+                <constraint firstItem="RTi-D8-ClJ" firstAttribute="top" secondItem="GM1-da-d3k" secondAttribute="bottom" constant="118" id="U8b-pr-hB3"/>
+                <constraint firstItem="CKu-fL-hTb" firstAttribute="top" secondItem="RTi-D8-ClJ" secondAttribute="bottom" constant="20" id="YGg-BT-guP"/>
+                <constraint firstItem="8QQ-mE-2GE" firstAttribute="centerX" secondItem="CKu-fL-hTb" secondAttribute="centerX" id="hcQ-of-8fb"/>
+                <constraint firstItem="dZb-dA-rfC" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="20" id="kqF-fv-4pn"/>
+                <constraint firstItem="RTi-D8-ClJ" firstAttribute="leading" secondItem="GM1-da-d3k" secondAttribute="leading" id="lE8-ZE-E0w"/>
+                <constraint firstItem="GM1-da-d3k" firstAttribute="leading" secondItem="dZb-dA-rfC" secondAttribute="leading" id="vHD-Zv-YPi"/>
+            </constraints>
+            <point key="canvasLocation" x="25" y="88"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
