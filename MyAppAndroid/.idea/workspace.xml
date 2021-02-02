@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cf20c5e-397e-416f-9bd9-72148d7ac73b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MyApp/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Local Podspecs/Flutter.podspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Local Podspecs/FlutterPluginRegistrant.podspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Local Podspecs/my_flutter.podspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Manifest.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Pods.xcodeproj/xcuserdata/IBT111542.xcuserdatad/xcschemes/Flutter.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Pods.xcodeproj/xcuserdata/IBT111542.xcuserdatad/xcschemes/FlutterPluginRegistrant.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Pods.xcodeproj/xcuserdata/IBT111542.xcuserdatad/xcschemes/Pods-Todo-TodoUITests.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Pods.xcodeproj/xcuserdata/IBT111542.xcuserdatad/xcschemes/Pods-Todo.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Pods.xcodeproj/xcuserdata/IBT111542.xcuserdatad/xcschemes/Pods-TodoTests.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Pods.xcodeproj/xcuserdata/IBT111542.xcuserdatad/xcschemes/my_flutter.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Pods.xcodeproj/xcuserdata/IBT111542.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Flutter/Flutter.debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Flutter/Flutter.release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/FlutterPluginRegistrant/FlutterPluginRegistrant-Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/FlutterPluginRegistrant/FlutterPluginRegistrant-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/FlutterPluginRegistrant/FlutterPluginRegistrant-prefix.pch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/FlutterPluginRegistrant/FlutterPluginRegistrant-umbrella.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/FlutterPluginRegistrant/FlutterPluginRegistrant.debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/FlutterPluginRegistrant/FlutterPluginRegistrant.modulemap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/FlutterPluginRegistrant/FlutterPluginRegistrant.release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests-Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests-acknowledgements.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests-acknowledgements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests-frameworks-Debug-input-files.xcfilelist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests-frameworks-Debug-output-files.xcfilelist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests-frameworks-Release-input-files.xcfilelist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests-frameworks-Release-output-files.xcfilelist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests-frameworks.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests-umbrella.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests.debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests.modulemap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo-TodoUITests/Pods-Todo-TodoUITests.release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo-Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo-acknowledgements.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo-acknowledgements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo-frameworks-Debug-input-files.xcfilelist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo-frameworks-Debug-output-files.xcfilelist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo-frameworks-Release-input-files.xcfilelist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo-frameworks-Release-output-files.xcfilelist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo-frameworks.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo-umbrella.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo.debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo.modulemap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-Todo/Pods-Todo.release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-TodoTests/Pods-TodoTests-Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-TodoTests/Pods-TodoTests-acknowledgements.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-TodoTests/Pods-TodoTests-acknowledgements.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-TodoTests/Pods-TodoTests-dummy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-TodoTests/Pods-TodoTests-umbrella.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-TodoTests/Pods-TodoTests.debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-TodoTests/Pods-TodoTests.modulemap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/Pods-TodoTests/Pods-TodoTests.release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/my_flutter/my_flutter.debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Pods/Target Support Files/my_flutter/my_flutter.release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo.xcodeproj/project.xcworkspace/xcuserdata/IBT111542.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo.xcodeproj/xcuserdata/IBT111542.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo.xcworkspace/xcshareddata/swiftpm/Package.resolved" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo.xcworkspace/xcuserdata/IBT111542.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Application/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Application/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Application/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Application/SceneDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Application/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Constants/ApplicationConstants.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Extension/Codable+Alamofire.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Extension/String+FirebasePath.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Extension/UIViewController+Nib.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Network/Enums/StatusCodes.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Network/Extension/NetworkService+StringPath.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Network/Model/BaseConfig.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Network/Model/BaseError.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Network/Model/BaseResponse.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Network/Model/EmptyModel.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Network/NetworkService.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Core/Network/Protocols/INetworkService.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/Model/TodoModel.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/Service/TodoService.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/Service/TodoServiceProtocol.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/View/Detail/DetailViewProtocol.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/View/Detail/TodoDetailViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/View/Detail/TodoDetailViewController.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/View/TableView/TodoDataSource.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/View/TableView/TodoTableViewProtocol.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/View/TodoViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/View/TodoViewController.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/View/TodoViewControllerProtocol.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/ViewModel/TodoViewModel.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Features/ToDo/ViewModel/TodoViewModelProtocol.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Info-Debug.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Info-Release.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Product/Network/Enums/NetworkPath.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Product/Network/NetworkManager.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Product/Network/Protocol/NetworkManagerProtocol.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Product/Protocol/AddTaskProtocol.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/Todo/Product/Widget/AddTaskAlertController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/TodoTests/Application/Feautre/Todo/TestTodoViewModel.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/TodoTests/Application/Feautre/Todo/TodoServiceMock.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/TodoTests/Application/Feautre/Todo/TodoViewModelMock.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/TodoTests/Application/Network/ModelTest.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/TodoTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/TodoTests/Service/TodoServiceTest.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/TodoTests/TodoTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/TodoUITests/GetirTodoUITests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/TodoUITests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp/TodoUITests/TodoUITests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_flutter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_flutter/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_flutter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_flutter/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_flutter/my_flutter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_flutter/my_flutter_android.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_flutter/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_flutter/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_flutter/test/widget_test.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nvMCvbwgWzfWh45sJivOtxRLei" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/../my_flutter/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf20c5e-397e-416f-9bd9-72148d7ac73b" name="Default Changelist" comment="" />
+      <created>1612265987420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612265987420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2165" y="290" key="#PSD" timestamp="1612268378325">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2165" y="290" key="#PSD/1680.23.1920.1057/0.23.1680.1027/3600.-237.1080.1897@1680.23.1920.1057" timestamp="1612268378325" />
+    <state width="1857" height="270" key="GridCell.Tab.0.bottom" timestamp="1612271093166">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1857" height="270" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027/3600.-237.1080.1897@1680.23.1920.1057" timestamp="1612271093166" />
+    <state width="1857" height="270" key="GridCell.Tab.0.center" timestamp="1612271093165">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1857" height="270" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027/3600.-237.1080.1897@1680.23.1920.1057" timestamp="1612271093165" />
+    <state width="1857" height="270" key="GridCell.Tab.0.left" timestamp="1612271093165">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1857" height="270" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027/3600.-237.1080.1897@1680.23.1920.1057" timestamp="1612271093165" />
+    <state width="1857" height="270" key="GridCell.Tab.0.right" timestamp="1612271093166">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1857" height="270" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027/3600.-237.1080.1897@1680.23.1920.1057" timestamp="1612271093166" />
+    <state width="1857" height="337" key="GridCell.Tab.1.bottom" timestamp="1612270994439">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1857" height="337" key="GridCell.Tab.1.bottom/1680.23.1920.1057/0.23.1680.1027/3600.-237.1080.1897@1680.23.1920.1057" timestamp="1612270994439" />
+    <state width="1857" height="337" key="GridCell.Tab.1.center" timestamp="1612270994439">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1857" height="337" key="GridCell.Tab.1.center/1680.23.1920.1057/0.23.1680.1027/3600.-237.1080.1897@1680.23.1920.1057" timestamp="1612270994439" />
+    <state width="1857" height="337" key="GridCell.Tab.1.left" timestamp="1612270994438">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1857" height="337" key="GridCell.Tab.1.left/1680.23.1920.1057/0.23.1680.1027/3600.-237.1080.1897@1680.23.1920.1057" timestamp="1612270994438" />
+    <state width="1857" height="337" key="GridCell.Tab.1.right" timestamp="1612270994439">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1857" height="337" key="GridCell.Tab.1.right/1680.23.1920.1057/0.23.1680.1027/3600.-237.1080.1897@1680.23.1920.1057" timestamp="1612270994439" />
+    <state x="1937" y="132" width="1480" height="827" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1612266933652">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1937" y="132" width="1480" height="827" key="com.android.tools.idea.avdmanager.AvdListDialog/1680.23.1920.1057/0.23.1680.1027/3600.-237.1080.1897@1680.23.1920.1057" timestamp="1612266933652" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/build.gradle</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
