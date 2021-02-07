@@ -2,6 +2,12 @@
 
 This repo created for interview proccess so you should be learn how grow your project.
 
+## Blog
+
+[Advanced Swift TODO app to Interview](https://vbacik-10.medium.com/advanced-swift-todo-app-to-interview-77ddc754630d)
+
+## Demo
+
 ![alt](./github/appgif.gif)
 
 ## Content
