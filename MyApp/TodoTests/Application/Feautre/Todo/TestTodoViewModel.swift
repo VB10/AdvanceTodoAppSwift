@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import GetirTodo
+@testable import Todo
 
 
 class TodoViewModelTest: XCTestCase {
@@ -35,7 +35,7 @@ class TodoViewModelTest: XCTestCase {
 
     func testLoadingBar() {
         let completedExpectation = expectation(description: "Completed")
-        let concurrentQueue = DispatchQueue(label: "swiftlee.concurrent.queue", attributes: .concurrent)
+        let concurrentQueue = DispatchQueue(label: "hwa", attributes: .concurrent)
 
         concurrentQueue.async {
             self.viewModel?.fetchTodoItems()
