@@ -6,7 +6,7 @@
 //
 
 import Foundation
-@testable import GetirTodo
+@testable import Todo
 
 class TodoViewModelMock: TodoViewModelProtocol, TodoTableViewProtocol {
     var isLoading: Bool = false

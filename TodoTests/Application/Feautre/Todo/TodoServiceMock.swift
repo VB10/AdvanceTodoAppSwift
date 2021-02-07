@@ -5,7 +5,7 @@
 //  Created by Veli Bacik on 1/14/21.
 //
 
-@testable import GetirTodo
+@testable import Todo
 
 class TodoServiceMock: TodoServiceProtocol {
 
