@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0420BCFE25CFB20E00FC8A8C /* TodoServiceTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0420BCFD25CFB20E00FC8A8C /* TodoServiceTest.swift */; };
+		0420BD0A25CFB26200FC8A8C /* ModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0420BD0925CFB26200FC8A8C /* ModelTest.swift */; };
+		0420BD1225CFB29900FC8A8C /* TodoViewModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0420BD1125CFB29900FC8A8C /* TodoViewModelTest.swift */; };
+		0420BD1725CFB2BC00FC8A8C /* TodoServiceMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0420BD1625CFB2BC00FC8A8C /* TodoServiceMock.swift */; };
+		0420BD1C25CFB2D300FC8A8C /* TodoViewModelMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0420BD1B25CFB2D300FC8A8C /* TodoViewModelMock.swift */; };
 		04CEE5F425C959AA0094D105 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04CEE5F325C959AA0094D105 /* Assets.xcassets */; };
 		04CEE60225C959AA0094D105 /* TodoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CEE60125C959AA0094D105 /* TodoTests.swift */; };
 		04CEE60D25C959AA0094D105 /* TodoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CEE60C25C959AA0094D105 /* TodoUITests.swift */; };
@@ -45,12 +50,6 @@
 		04CEE68125C959E70094D105 /* TodoService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CEE67425C959E70094D105 /* TodoService.swift */; };
 		04CEE68225C959E70094D105 /* TodoServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CEE67525C959E70094D105 /* TodoServiceProtocol.swift */; };
 		04CEE69425C95B610094D105 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 04CEE69325C95B610094D105 /* Alamofire */; };
-		04CEE6A225C95B870094D105 /* TodoServiceMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CEE69B25C95B870094D105 /* TodoServiceMock.swift */; };
-		04CEE6A325C95B870094D105 /* TestTodoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CEE69C25C95B870094D105 /* TestTodoViewModel.swift */; };
-		04CEE6A425C95B870094D105 /* TodoViewModelMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CEE69D25C95B870094D105 /* TodoViewModelMock.swift */; };
-		04CEE6A525C95B870094D105 /* ModelTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CEE69F25C95B870094D105 /* ModelTest.swift */; };
-		04CEE6A625C95B870094D105 /* TodoServiceTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CEE6A125C95B870094D105 /* TodoServiceTest.swift */; };
-		04CEE6AB25C95B940094D105 /* GetirTodoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CEE6AA25C95B940094D105 /* GetirTodoUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +70,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0420BCFD25CFB20E00FC8A8C /* TodoServiceTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoServiceTest.swift; sourceTree = "<group>"; };
+		0420BD0925CFB26200FC8A8C /* ModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelTest.swift; sourceTree = "<group>"; };
+		0420BD1125CFB29900FC8A8C /* TodoViewModelTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoViewModelTest.swift; sourceTree = "<group>"; };
+		0420BD1625CFB2BC00FC8A8C /* TodoServiceMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoServiceMock.swift; sourceTree = "<group>"; };
+		0420BD1B25CFB2D300FC8A8C /* TodoViewModelMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoViewModelMock.swift; sourceTree = "<group>"; };
 		04CEE5E725C959A80094D105 /* Todo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04CEE5F325C959AA0094D105 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04CEE5F825C959AA0094D105 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -114,12 +118,6 @@
 		04CEE67225C959E70094D105 /* TodoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TodoViewController.xib; sourceTree = "<group>"; };
 		04CEE67425C959E70094D105 /* TodoService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodoService.swift; sourceTree = "<group>"; };
 		04CEE67525C959E70094D105 /* TodoServiceProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodoServiceProtocol.swift; sourceTree = "<group>"; };
-		04CEE69B25C95B870094D105 /* TodoServiceMock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodoServiceMock.swift; sourceTree = "<group>"; };
-		04CEE69C25C95B870094D105 /* TestTodoViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestTodoViewModel.swift; sourceTree = "<group>"; };
-		04CEE69D25C95B870094D105 /* TodoViewModelMock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodoViewModelMock.swift; sourceTree = "<group>"; };
-		04CEE69F25C95B870094D105 /* ModelTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelTest.swift; sourceTree = "<group>"; };
-		04CEE6A125C95B870094D105 /* TodoServiceTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodoServiceTest.swift; sourceTree = "<group>"; };
-		04CEE6AA25C95B940094D105 /* GetirTodoUITests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetirTodoUITests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +146,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0420BCFC25CFB20000FC8A8C /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				0420BCFD25CFB20E00FC8A8C /* TodoServiceTest.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		0420BD0525CFB23100FC8A8C /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				0420BD0825CFB25900FC8A8C /* Network */,
+				0420BD0625CFB23700FC8A8C /* Feature */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		0420BD0625CFB23700FC8A8C /* Feature */ = {
+			isa = PBXGroup;
+			children = (
+				0420BD0725CFB23D00FC8A8C /* Todo */,
+			);
+			path = Feature;
+			sourceTree = "<group>";
+		};
+		0420BD0725CFB23D00FC8A8C /* Todo */ = {
+			isa = PBXGroup;
+			children = (
+				0420BD1125CFB29900FC8A8C /* TodoViewModelTest.swift */,
+				0420BD1625CFB2BC00FC8A8C /* TodoServiceMock.swift */,
+				0420BD1B25CFB2D300FC8A8C /* TodoViewModelMock.swift */,
+			);
+			path = Todo;
+			sourceTree = "<group>";
+		};
+		0420BD0825CFB25900FC8A8C /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				0420BD0925CFB26200FC8A8C /* ModelTest.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
 		04CEE5DE25C959A80094D105 = {
 			isa = PBXGroup;
 			children = (
@@ -183,8 +224,8 @@
 		04CEE60025C959AA0094D105 /* TodoTests */ = {
 			isa = PBXGroup;
 			children = (
-				04CEE69825C95B870094D105 /* Application */,
-				04CEE6A025C95B870094D105 /* Service */,
+				0420BD0525CFB23100FC8A8C /* Application */,
+				0420BCFC25CFB20000FC8A8C /* Service */,
 				04CEE60125C959AA0094D105 /* TodoTests.swift */,
 				04CEE60325C959AA0094D105 /* Info.plist */,
 			);
@@ -194,7 +235,6 @@
 		04CEE60B25C959AA0094D105 /* TodoUITests */ = {
 			isa = PBXGroup;
 			children = (
-				04CEE6AA25C95B940094D105 /* GetirTodoUITests.swift */,
 				04CEE60C25C959AA0094D105 /* TodoUITests.swift */,
 				04CEE60E25C959AA0094D105 /* Info.plist */,
 			);
@@ -416,49 +456,6 @@
 			path = Service;
 			sourceTree = "<group>";
 		};
-		04CEE69825C95B870094D105 /* Application */ = {
-			isa = PBXGroup;
-			children = (
-				04CEE69925C95B870094D105 /* Feautre */,
-				04CEE69E25C95B870094D105 /* Network */,
-			);
-			path = Application;
-			sourceTree = "<group>";
-		};
-		04CEE69925C95B870094D105 /* Feautre */ = {
-			isa = PBXGroup;
-			children = (
-				04CEE69A25C95B870094D105 /* Todo */,
-			);
-			path = Feautre;
-			sourceTree = "<group>";
-		};
-		04CEE69A25C95B870094D105 /* Todo */ = {
-			isa = PBXGroup;
-			children = (
-				04CEE69B25C95B870094D105 /* TodoServiceMock.swift */,
-				04CEE69C25C95B870094D105 /* TestTodoViewModel.swift */,
-				04CEE69D25C95B870094D105 /* TodoViewModelMock.swift */,
-			);
-			path = Todo;
-			sourceTree = "<group>";
-		};
-		04CEE69E25C95B870094D105 /* Network */ = {
-			isa = PBXGroup;
-			children = (
-				04CEE69F25C95B870094D105 /* ModelTest.swift */,
-			);
-			path = Network;
-			sourceTree = "<group>";
-		};
-		04CEE6A025C95B870094D105 /* Service */ = {
-			isa = PBXGroup;
-			children = (
-				04CEE6A125C95B870094D105 /* TodoServiceTest.swift */,
-			);
-			path = Service;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -634,7 +631,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0420BD1225CFB29900FC8A8C /* TodoViewModelTest.swift in Sources */,
+				0420BD0A25CFB26200FC8A8C /* ModelTest.swift in Sources */,
+				0420BD1725CFB2BC00FC8A8C /* TodoServiceMock.swift in Sources */,
 				04CEE60225C959AA0094D105 /* TodoTests.swift in Sources */,
+				0420BD1C25CFB2D300FC8A8C /* TodoViewModelMock.swift in Sources */,
+				0420BCFE25CFB20E00FC8A8C /* TodoServiceTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -643,12 +645,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				04CEE60D25C959AA0094D105 /* TodoUITests.swift in Sources */,
-				04CEE6A225C95B870094D105 /* TodoServiceMock.swift in Sources */,
-				04CEE6AB25C95B940094D105 /* GetirTodoUITests.swift in Sources */,
-				04CEE6A425C95B870094D105 /* TodoViewModelMock.swift in Sources */,
-				04CEE6A625C95B870094D105 /* TodoServiceTest.swift in Sources */,
-				04CEE6A325C95B870094D105 /* TestTodoViewModel.swift in Sources */,
-				04CEE6A525C95B870094D105 /* ModelTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
