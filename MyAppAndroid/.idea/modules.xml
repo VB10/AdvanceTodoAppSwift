@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyAppAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/MyAppAndroid.iml" group="MyAppAndroid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MyAppAndroid/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1321066780/flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/1321066780/flutter.iml" group="MyAppAndroid/flutter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1187358145/my_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/1187358145/my_flutter.iml" group="MyAppAndroid/my_flutter" />
+    </modules>
+  </component>
+</project>

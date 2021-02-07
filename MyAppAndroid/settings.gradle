@@ -1,0 +1,13 @@
+include ':app'
+setBinding(new Binding([gradle: this]))
+evaluate(new File(
+  settingsDir,
+  '../my_flutter/.android/include_flutter.groovy'
+))
+rootProject.name = "MyAppAndroid"
+
+include ':my_flutter'
+project(':my_flutter').projectDir = new File('../my_flutter')
+
+include ':my_flutter'
+project(':my_flutter').projectDir = new File('../my_flutter')
